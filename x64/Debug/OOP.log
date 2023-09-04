@@ -1,0 +1,4 @@
+﻿  Bai4_Chuong2.cpp
+D:\Object_Oriented_Programming\OOP\OOP\Bai4_Chuong2.cpp(39,60): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Object_Oriented_Programming\OOP\OOP\Bai4_Chuong2.cpp(182,12): warning C4101: 'f': unreferenced local variable
+  OOP.vcxproj -> D:\Object_Oriented_Programming\OOP\x64\Debug\OOP.exe
